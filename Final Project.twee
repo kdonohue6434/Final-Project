@@ -1,0 +1,98 @@
+:: StoryTitle
+Final Project
+
+
+:: StoryData
+{
+  "ifid": "0446F408-62B5-4860-A6E9-CB9F722E3328",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Startover",
+  "zoom": 1
+}
+
+
+:: \ google wallet {"position":"650,400","size":"100,100"}
+no no no no why woudl you ever want this when you could just use apple built in wallet maybe try this again 
+[[Startover]]
+
+
+:: Apple watch duh {"position":"775,525","size":"100,100"}
+Of course you are gonna need to spend another $600 to use soemthing that you already have welcome to apple. How about you try really thinking on this one. Would you like listen to music after this day of spending money.
+[[Yes my wired headphones are gonna sound so good]]
+[[Yes my lifesavings are gone]]
+
+
+:: No {"position":"650,775","size":"100,100"}
+L bozo you can't use that trash here
+[[Startover]] 
+
+
+:: Startover {"position":"650,275","size":"100,100"}
+You are a previous android user that has been bulied by your friends into purchasing a Iphone and you are needing to transfer over your commonly used applications. You are now looking to add a wallet feature to your device which one would you go with.
+[[ google wallet]]
+[[apple wallet]]
+
+
+:: YES {"position":"900,900","size":"100,100"}
+Perfect, we will now take a percentage of your profits because we want to 
+[[thank you so much I hate money]]
+
+
+:: Yes {"position":"775,775","size":"100,100"}
+Congratulations you are starting to get it now hope you love giving us your money 
+[[lifesavings are gone]]
+
+
+:: Yes my lifesavings are gone {"position":"900,650","size":"100,100"}
+of course they are how are those airpods treating you. I heard that you are a app designer would you like to add this to the app store.
+[[yes]]
+[[no]]
+
+
+:: Yes my wired beats are gonna sound so good {"position":"775,650","size":"100,100"}
+Well here comes the real question did you buy a dongle
+[[Yes]]
+[[No]]
+
+
+:: Yes my wired headphones are gonna sound so good {"position":"650,650","size":"100,100"}
+
+
+
+:: apple wallet {"position":"775,400","size":"100,100"}
+Perfect you have given in to our wallet choice (not by your choice). Lets add your smart watch to your phone I know you spent a lot of money on that 
+[[Apple watch duh]]
+[[your galaxy watch that you bought two months ago]]
+
+
+:: lifesavings are gone {"position":"1025,650","size":"100,100"}
+Now that you are here I heard you were an app designer and had a few that you would commonly use on your old phone would you like to add these to our app store.
+[[yes]] 
+[[no]]
+
+
+:: no {"position":"1025,775","size":"100,100"}
+then why even make this application.
+[[Startover]] 
+
+
+:: thank you so much I hate money {"position":"900,1025","size":"100,100"}
+Congratulations you have made it through the gaunlet of apple 
+[[Startover]] 
+
+
+:: why wouldn't we be able to make money {"position":"1025,900","size":"100,100"}
+Keep that trash in the dumpster where it belongs 
+[[Startover]] 
+
+
+:: yes {"position":"900,775","size":"100,100"}
+Okay well can we make money off of this 
+[[YES]]
+[[why wouldn't we be able to make money]]
+
+
+:: your galaxy watch that you bought two months ago {"position":"900,525","size":"100,100"}
+What are you doing here you think you can use that with an Iphone.
+[[Startover]] 
